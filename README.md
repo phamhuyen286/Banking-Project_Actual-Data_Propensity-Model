@@ -1,9 +1,13 @@
 Bank Marketing (logistic regression)
 Project link: https://www.kaggle.com/code/phamhuyen286/bank-marketing-project-logistics-regression/edit/run/200758699
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+
 Link of Dataset:https://archive.ics.uci.edu/dataset/222/bank+marketing
+
 Link of research paper on this dataset: https://www.sciencedirect.com/science/article/abs/pii/S016792361400061X?via%3Dihub
+
 Campaign propensity: predicts which bank customers respond to a campaign. Matches "propensity models" and "campaign management".
+
 In the dataset the following is my understanding on columns description:
 age: This column represents the age of individuals, with unique values ranging from 18 to 94 years.
 job: The job column categorizes individuals into various occupations such as management, technician, and entrepreneur, with several entries also marked as NaN for missing data.
